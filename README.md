@@ -1,7 +1,10 @@
 我的毕设
 
-houston muufl trento
+小样本分类
+houston 95%
+muufl 99.5%
+trento 80%
 
 rtx3060 6g
 
-速度很快，精度很高
+训练速度很快，精度很高
